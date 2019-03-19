@@ -144,6 +144,25 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+ HEAD
+
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552923249601" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="base" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+      <recent name="$PROJECT_DIR$/Generic" />
+    </key>
+  </component>
+>>>>>>> f44c66dbc4d7f1dcfd6cbbf4294a4a6d4f82ab73
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
