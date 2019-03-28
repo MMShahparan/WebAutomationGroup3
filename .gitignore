@@ -1,2 +1,4 @@
-java/
-java/
+.idea/
+
+# Ignoring all target files created when running tests.
+*/target/*
